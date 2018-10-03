@@ -1,6 +1,6 @@
 {
   "name": "@scouterinc/v-cascade",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "A lovely cascade selector with vue.js",
   "author": "zanseven007 <fish@zanyuyu.com> (https://zanyuyu.com/)",
   "license": "MIT",
