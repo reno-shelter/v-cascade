@@ -145,6 +145,7 @@ export default {
         const pathName = this.getPathName(index)
         this.pathName.push(pathName)
       }
+      this.$emit('success', { path: this.path, pathName: this.pathName })
     },
     getPathName (val) {
       for (const item of this.casData) {
